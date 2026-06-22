@@ -1,4 +1,4 @@
-Hybrid Cloud Gateway
+HYBRID CLOUD GATEWAY
 
 TECH STACK:
  
