@@ -1,0 +1,8 @@
+# Use the Nginx image you already downloaded as the base
+FROM nginx:alpine
+
+# Replace the default "Welcome" page with your custom hybrid dashboard
+COPY index.html /usr/share/nginx/html/index.html
+
+# Expose port 80 inside the container
+EXPOSE 80
